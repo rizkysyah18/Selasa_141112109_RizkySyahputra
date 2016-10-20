@@ -1,0 +1,6 @@
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutan\bin\Debug\TugasCSharpLanjutan.exe.config
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.exe
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.pdb
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\Latihan_1_1\bin\Debug\TugasCSharpLanjutan.exe.config
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\Latihan_1_1\obj\Debug\TugasCSharpLanjutan.exe
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\Latihan_1_1\obj\Debug\TugasCSharpLanjutan.pdb

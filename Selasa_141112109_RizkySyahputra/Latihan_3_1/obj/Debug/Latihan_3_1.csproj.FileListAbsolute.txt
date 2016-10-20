@@ -1,0 +1,3 @@
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutanLatihan3\bin\Debug\TugasCSharpLanjutanLatihan3.exe.config
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutanLatihan3\obj\Debug\TugasCSharpLanjutanLatihan3.exe
+C:\Users\COMPAG\Downloads\Selasa_141112109_RizkySyahputra\Selasa_141112109_RizkySyahputra\TugasCSharpLanjutanLatihan3\obj\Debug\TugasCSharpLanjutanLatihan3.pdb

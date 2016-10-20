@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_1", "Latihan_1_1\Latihan_1_1.csproj", "{88E99193-A944-45F8-B8D9-5F4F52BE7E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2_1", "Latihan_2_1\Latihan_2_1.csproj", "{01CF269C-E301-496A-BEDE-85B2D312D23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "Latihan_3_1\Latihan_3_1.csproj", "{F6D8CE24-B89C-4B5B-902E-FC225A6B821C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E99193-A944-45F8-B8D9-5F4F52BE7E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E99193-A944-45F8-B8D9-5F4F52BE7E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E99193-A944-45F8-B8D9-5F4F52BE7E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E99193-A944-45F8-B8D9-5F4F52BE7E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CF269C-E301-496A-BEDE-85B2D312D23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CF269C-E301-496A-BEDE-85B2D312D23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CF269C-E301-496A-BEDE-85B2D312D23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CF269C-E301-496A-BEDE-85B2D312D23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D8CE24-B89C-4B5B-902E-FC225A6B821C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D8CE24-B89C-4B5B-902E-FC225A6B821C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D8CE24-B89C-4B5B-902E-FC225A6B821C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D8CE24-B89C-4B5B-902E-FC225A6B821C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
