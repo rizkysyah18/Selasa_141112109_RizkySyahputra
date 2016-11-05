@@ -1,0 +1,3 @@
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_4_1\bin\Debug\TugasCSharpLanjutanLatihan4.exe.config
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_4_1\obj\Debug\TugasCSharpLanjutanLatihan4.exe
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_4_1\obj\Debug\TugasCSharpLanjutanLatihan4.pdb
